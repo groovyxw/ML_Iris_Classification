@@ -22,8 +22,11 @@ Machine Learning Algorithm - Logistic Regression
 2. open Gooble Colab
 > https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 
-3. rename the file name as you want
+3. File -> Upload NoteBook
 
-4. 
+
+4. Click "run" button like this below:
+
+
 
 
