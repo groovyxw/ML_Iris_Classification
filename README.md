@@ -27,7 +27,7 @@ Machine Learning Algorithm - Logistic Regression
 4. File -> Upload NoteBook
 ![GitHub Logo](images/colab_upload_notebook.PNG)
 
-5. Click "run" button like this below:
+5. click the triangle button to run the code one by one:
 ![GitHub Logo](images/colab_run-notebook.PNG)
 
 ## Results Screenshots:
