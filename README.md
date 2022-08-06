@@ -33,14 +33,24 @@ Machine Learning Algorithm - Logistic Regression
 ## Results Screenshots:
 
 Data Analysis:
+
+
 ![GitHub Logo](images/iris_4.PNG)
 
 
 Model Evaluation:
+
+
 ![GitHub Logo](images/iris_7.PNG)
 
+
+
 Test Prediction:
+
+
 ![GitHub Logo](images/iris_6.PNG)
+
+
 
 ## Presentation
 https://docs.google.com/presentation/d/1O8sjvlKpP03iDisS21koyVYaEY2ps76Q_KjZcgzOTsk/edit?usp=sharing
