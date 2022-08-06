@@ -17,16 +17,33 @@ Machine Learning Algorithm - Logistic Regression
 
 ## How to run?
 
-1. create google account
+1. Download file Iris_Classification.ipynb
 
-2. open Gooble Colab
+2. create google account
+
+3. open Gooble Colab
 > https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 
-3. File -> Upload NoteBook
+4. File -> Upload NoteBook
+![GitHub Logo](images/colab_upload_notebook.PNG)
+
+5. Click "run" button like this below:
+![GitHub Logo](images/colab_run-notebook.PNG)
+
+## Results Screenshots:
+
+Data Analysis:
+![GitHub Logo](images/iris_4.PNG)
 
 
-4. Click "run" button like this below:
+Model Evaluation:
+![GitHub Logo](images/iris_7.PNG)
 
+Test Prediction:
+![GitHub Logo](images/iris_6.PNG)
+
+## Presentation
+https://docs.google.com/presentation/d/1O8sjvlKpP03iDisS21koyVYaEY2ps76Q_KjZcgzOTsk/edit?usp=sharing
 
 
 
